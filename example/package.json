@@ -1,0 +1,19 @@
+{
+  "name": "@zhult-ui/example",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "2.7.16",
+    "@zhult-ui/components": "workspace:^"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue2": "2.3.1",
+    "vite": "^6.3.5"
+  }
+}

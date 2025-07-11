@@ -6,6 +6,11 @@
 ----
 perf: Restricting node versions and requiring the use of pnpm([#905d09b](https://github.com/GuYun-D/bubble-ui/commit/905d09b) by @GuYun-D)
 
+### ✨ Features | 新功能
+
+----
+feat: A simple button component([#0fa3244](https://github.com/GuYun-D/bubble-ui/commit/0fa3244) by @GuYun-D)
+
 ### 💄 Styles | 风格
 
 ----
