@@ -28,6 +28,7 @@ style: Rename project name([#16850ca](https://github.com/GuYun-D/bubble-ui/commi
 docs: Configure development environment([#dad8e36](https://github.com/GuYun-D/bubble-ui/commit/dad8e36) by @GuYun-D)----
 docs: Generate changelog([#57ae22a](https://github.com/GuYun-D/bubble-ui/commit/57ae22a) by @GuYun-D)----
 docs: Generate changelog after code submission([#2912866](https://github.com/GuYun-D/bubble-ui/commit/2912866) by @GuYun-D)----
+docs: Generate docs document([#dfcbca1](https://github.com/GuYun-D/bubble-ui/commit/dfcbca1) by @GuYun-D)----
 docs: Optimize the generation effect of changelog([#d72787c](https://github.com/GuYun-D/bubble-ui/commit/d72787c) by @GuYun-D)
 
 
