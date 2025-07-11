@@ -6,7 +6,8 @@
   "scripts": {
     "prepare": "husky install",
     "cz": "git add . && czg",
-    "prettier": "prettier --write ."
+    "prettier": "prettier --write .",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 -n ./changelog-option.js"
   },
   "author": "GuYun-D",
   "license": "ISC",
