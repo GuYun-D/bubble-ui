@@ -1,6 +1,11 @@
 # 1.0.0 (2025-07-11)
 
 
+### ⚡ Performance Improvements | 性能优化
+
+----
+perf: Restricting node versions and requiring the use of pnpm([#905d09b](https://github.com/GuYun-D/bubble-ui/commit/905d09b) by @GuYun-D)
+
 ### 💄 Styles | 风格
 
 ----
