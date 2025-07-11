@@ -24,3 +24,4 @@ pnpm-debug.log*
 
 # my test file
 tests.*
+articles.md
