@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "prepare": "husky install",
-    "cz": "git add . && czg"
+    "cz": "git add . && czg",
+    "prettier": "prettier --write ."
   },
   "author": "GuYun-D",
   "license": "ISC",
