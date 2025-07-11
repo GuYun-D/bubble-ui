@@ -14,7 +14,8 @@ style: Commit automatic formatting code([#7edb90b](https://github.com/GuYun-D/bu
 style: Configure Prettier([#01f2502](https://github.com/GuYun-D/bubble-ui/commit/01f2502) by @GuYun-D)----
 style: Configure VSCode file folding([#9aec6db](https://github.com/GuYun-D/bubble-ui/commit/9aec6db) by @GuYun-D)----
 style: Git commit specification for configuring code([#f67be62](https://github.com/GuYun-D/bubble-ui/commit/f67be62) by @GuYun-D)----
-style: Prohibit formatting pnpm-lock.yaml files([#a1863ba](https://github.com/GuYun-D/bubble-ui/commit/a1863ba) by @GuYun-D)
+style: Prohibit formatting pnpm-lock.yaml files([#a1863ba](https://github.com/GuYun-D/bubble-ui/commit/a1863ba) by @GuYun-D)----
+style: Rename project name([#16850ca](https://github.com/GuYun-D/bubble-ui/commit/16850ca) by @GuYun-D)
 
 ### 📝 Documentation | 文档
 
