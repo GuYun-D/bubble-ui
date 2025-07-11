@@ -1,0 +1,44 @@
+{
+  "name": "bubble-ui",
+  "version": "1.0.0",
+  "description": "vue2 组件库",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "cz": "git add . && czg"
+  },
+  "author": "GuYun-D",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuYun-D/bubble-ui.git"
+  },
+  "keywords": [
+    "vue2",
+    "iview",
+    "ui"
+  ],
+  "bugs": {
+    "url": "https://github.com/GuYun-D/bubble-ui/issues"
+  },
+  "homepage": "https://github.com/GuYun-D/bubble-ui#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "czg": "^1.12.0",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-vue": "^7.20.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.1.2",
+    "prettier": "^3.6.2"
+  },
+  "lint-staged": {
+    "*.{js,vue}": "eslint --fix"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-git"
+    }
+  }
+}
