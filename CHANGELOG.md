@@ -7,6 +7,7 @@
 style: Add ESL and Prettier whitelist([#241d142](https://github.com/GuYun-D/bubble-ui/commit/241d142) by @GuYun-D)----
 style: Commit automatic formatting code([#7edb90b](https://github.com/GuYun-D/bubble-ui/commit/7edb90b) by @GuYun-D)----
 style: Configure Prettier([#01f2502](https://github.com/GuYun-D/bubble-ui/commit/01f2502) by @GuYun-D)----
+style: Configure VSCode file folding([#9aec6db](https://github.com/GuYun-D/bubble-ui/commit/9aec6db) by @GuYun-D)----
 style: Git commit specification for configuring code([#f67be62](https://github.com/GuYun-D/bubble-ui/commit/f67be62) by @GuYun-D)
 
 ### 📝 Documentation | 文档

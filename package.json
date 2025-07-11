@@ -7,7 +7,8 @@
     "prepare": "husky install",
     "cz": "git add . && czg",
     "prettier": "prettier --write .",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 -n ./changelog-option.js"
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 -n ./changelog-option.js",
+    "preinstall": "npx only-allow pnpm"
   },
   "author": "GuYun-D",
   "license": "ISC",
@@ -33,6 +34,7 @@
     "eslint-plugin-vue": "^7.20.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.1.2",
+    "only-allow": "^1.2.1",
     "prettier": "^3.6.2"
   },
   "lint-staged": {
